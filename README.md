@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Bharath Maradana</h1>
  <h3 align="center">A passionate FullStack Web developer from India</h3>
  <img  align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="coding" width="400"/>
+
+
 - 🔭 I’m currently working on [Voting System](https://github.com/Bharathmaradana/voting-frontend.git)
 
 - 🌱 I’m currently learning **Django**
@@ -16,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bharath maradana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharath maradana" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/uzumaki_bharat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="uzumaki_bharat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/uzumaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uzumaki" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bharathmaradana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharathmaradana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathmaradana&show_icons=true&locale=en" alt="bharathmaradana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathmaradana&" alt="bharathmaradana" /></p>
+
