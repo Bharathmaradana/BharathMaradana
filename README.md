@@ -1,7 +1,7 @@
-[![MasterHead](https://tenor.com/bV9He.gif)](https://BharathMaradana.io)
+[![MasterHead](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://BharathMaradana.io)
 <h1 align="center">Hi 👋, I'm Bharath Maradana</h1>
 <h3 align="center">A passionate FullStack Web developer from India</h3>
-<img src= "https://tenor.com/bV9He.gif" align="right" alt="coding" width="400"/>
+<img  align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="coding" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathmaradana&label=Profile%20views&color=0e75b6&style=flat" alt="bharathmaradana" /> </p>
 
