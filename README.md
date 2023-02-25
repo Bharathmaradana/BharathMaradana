@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://BharathMaradana.io) 
+
 <h1 align="center">Hi 👋, I'm Bharath Maradana</h1>
  <h3 align="center">A passionate FullStack Web developer from India</h3>
  <img  align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="coding" width="400"/>
