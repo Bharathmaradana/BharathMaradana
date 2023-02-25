@@ -1,12 +1,7 @@
-[![MasterHead](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://BharathMaradana.io)
+[![MasterHead](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://BharathMaradana.io) 
 <h1 align="center">Hi 👋, I'm Bharath Maradana</h1>
-<h3 align="center">A passionate FullStack Web developer from India</h3>
-<img  align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="coding" width="400"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathmaradana&label=Profile%20views&color=0e75b6&style=flat" alt="bharathmaradana" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathmaradana" alt="bharathmaradana" /></a> </p>
-
+ <h3 align="center">A passionate FullStack Web developer from India</h3>
+ <img  align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="coding" width="400"/>
 - 🔭 I’m currently working on [Voting System](https://github.com/Bharathmaradana/voting-frontend.git)
 
 - 🌱 I’m currently learning **Django**
@@ -19,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maradanabharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maradanabharath" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bharath maradana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharath maradana" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/uzumaki_bharat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="uzumaki_bharat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bharathmaradana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharathmaradana" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/uzumaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uzumaki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
